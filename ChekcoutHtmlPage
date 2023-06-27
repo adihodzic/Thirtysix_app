@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<script src="https://js.stripe.com/v3/"></script>
+<head>
+    <meta charset="utf-8" />
+    <title>Stripe checkout</title>
+</head>
+<body>
+     HELLOOOOO  USER  WELCOME !!!!!
+    
+</body>
+</html>
